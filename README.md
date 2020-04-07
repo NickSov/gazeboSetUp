@@ -10,3 +10,6 @@ The world contains a warehouse structure, two robot models, and several other mo
 
 **Top View of the Environment**
 
+![Environment Image](https://github.com/NickSov/gazeboSetUp/blob/master/images/env.jpg?raw=true)
+
+
